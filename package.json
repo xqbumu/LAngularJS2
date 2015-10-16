@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/xqbumu/LAngularJS2/issues"
   },
-  "homepage": "https://github.com/xqbumu/LAngularJS2#readme"
+  "homepage": "https://github.com/xqbumu/LAngularJS2#readme",
+  "dependencies": {
+    "angular2": "2.0.0-alpha.42"
+  },
+  "devDependencies": {
+    "live-server": "^0.8.1"
+  }
 }
